@@ -1,0 +1,6 @@
+{
+  "name": "Personal Prompt Library",
+  "description": "Native-feel Android prompt library featuring Liquid Glass aesthetics, offline IndexedDB storage, dynamic variables, categorized collections, and optional Gemini AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
